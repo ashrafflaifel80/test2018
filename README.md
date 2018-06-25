@@ -1,3 +1,4 @@
 # Exmple Respositry  
 this  is  ReadMe file  
-its smaple  using  repositry 
+its Sample  using  Respositry 
+this  is  secound  change 
